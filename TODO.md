@@ -1,10 +1,8 @@
 # TODO
 
-- [x] Reduce mobile hero image height so it doesn’t look too big on home page
-- [x] Make About page less boring (add stronger layout/visual styling) 
-- [x] Update about.html layout (split section, stats, timeline, gallery)
-- [x] Update css/style.css (add about-specific classes + responsive rules)
+- [x] Add missing CSS in `css/style.css` for About page classes (.about-split, .about-copy, .about-image, .section-subtitle, stats grid/cards, timeline, gallery grid/items)
+- [x] Add responsive/mobile styles for the new About CSS
+- [x] Verify by opening `about.html` in browser and checking layout
 
 
-- [ ] Verify about.html in browser (desktop + mobile)
 
